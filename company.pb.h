@@ -19,20 +19,20 @@
 #error regenerate this file with a newer version of protoc.
 #endif
 
-// #include <google/protobuf/port_undef.inc>
-// #include <google/protobuf/io/coded_stream.h>
-// #include <google/protobuf/arena.h>
-// #include <google/protobuf/arenastring.h>
-// #include <google/protobuf/generated_message_table_driven.h>
-// #include <google/protobuf/generated_message_util.h>
-// #include <google/protobuf/metadata_lite.h>
-// #include <google/protobuf/generated_message_reflection.h>
-// #include <google/protobuf/message.h>
-// #include <google/protobuf/repeated_field.h>  // IWYU pragma: export
-// #include <google/protobuf/extension_set.h>  // IWYU pragma: export
-// #include <google/protobuf/unknown_field_set.h>
-// // @@protoc_insertion_point(includes)
-// #include <google/protobuf/port_def.inc>
+#include <google/protobuf/port_undef.inc>
+#include <google/protobuf/io/coded_stream.h>
+#include <google/protobuf/arena.h>
+#include <google/protobuf/arenastring.h>
+#include <google/protobuf/generated_message_table_driven.h>
+#include <google/protobuf/generated_message_util.h>
+#include <google/protobuf/metadata_lite.h>
+#include <google/protobuf/generated_message_reflection.h>
+#include <google/protobuf/message.h>
+#include <google/protobuf/repeated_field.h>  // IWYU pragma: export
+#include <google/protobuf/extension_set.h>  // IWYU pragma: export
+#include <google/protobuf/unknown_field_set.h>
+// @@protoc_insertion_point(includes)
+#include <google/protobuf/port_def.inc>
 #define PROTOBUF_INTERNAL_EXPORT_company_2eproto
 PROTOBUF_NAMESPACE_OPEN
 namespace internal {
