@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/Model_on_Protobuf/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Model_on_Protobuf.dir\\main.cpp.obj -c D:\\VSCode\\Model_on_Protobuf\\main.cpp",
+  "file": "D:/VSCode/Model_on_Protobuf/main.cpp",
+  "output": "CMakeFiles/Model_on_Protobuf.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:/VSCode/Model_on_Protobuf/build/CMakeFiles/Model_on_Protobuf.dir
+D:/VSCode/Model_on_Protobuf/build/CMakeFiles/edit_cache.dir
+D:/VSCode/Model_on_Protobuf/build/CMakeFiles/rebuild_cache.dir

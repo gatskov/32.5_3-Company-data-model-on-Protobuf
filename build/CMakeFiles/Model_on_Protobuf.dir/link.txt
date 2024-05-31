@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Model_on_Protobuf.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Model_on_Protobuf.dir/objects.a @CMakeFiles\Model_on_Protobuf.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Model_on_Protobuf.dir/objects.a -Wl,--no-whole-archive -o Model_on_Protobuf.exe -Wl,--out-implib,libModel_on_Protobuf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Model_on_Protobuf.dir\linkLibs.rsp
